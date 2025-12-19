@@ -74,4 +74,10 @@ Frontend application will be available at:
 
 http://localhost:5173
 
+### screenshot 
+<img width="1471" height="880" alt="image" src="https://github.com/user-attachments/assets/46e1698a-66c9-4bcd-a3e4-7c78524aec3c" />
+
+<img width="1238" height="853" alt="image" src="https://github.com/user-attachments/assets/fe14a7e6-805f-4beb-b917-35064c16cdaf" />
+
+
 
