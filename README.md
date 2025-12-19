@@ -1,4 +1,4 @@
-<img width="1238" height="853" alt="image" src="https://github.com/user-attachments/assets/d0a00c3c-62a9-4a84-9350-40e8f07a0dbb" /># Notes App
+# Notes App
 
 A full-stack Notes application built using modern web technologies.  
 This project demonstrates basic CRUD operations, REST API integration, and responsive UI design.
